@@ -11,7 +11,6 @@ Esta comida es un homenaje a la tradición alpina y al espíritu de Heidi, quien
 ¡Prepárate para disfrutar de un plato lleno de sabor, historia y cariño!
 
 ## 🥗 Entradas y Aperitivos
-
 - 🥑 **Guacamole Clásico**  
   Un dip fresco y cremoso, perfecto para compartir.  
 - 🍅 **Bruschetta Italiana**  
